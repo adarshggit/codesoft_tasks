@@ -100,24 +100,28 @@ A Python-based Contact Book application for managing contact information.
 ## 📂 Repository Structure
 
 ```text
-CODSOFT/PYTHONPROGRAMMING/
+codesoft_tasks/
 │
 ├── README.md
 │
-├── Task 1/
-│   └── todo_list.py
-│
-├── Task 2/
-│   └── calculator.py
-│
-├── Task 3/
-│   └── password_generator.py
-│
-├── Task 4/
-│   └── rock_paper_scissors.py
-│
-└── Task 5/
-    └── contact_book.py
+└── PythonProgramming/
+    │
+    ├── Task 5/
+    │   └── contact_book.py
+    │
+    ├── Task1/
+    │   └── todo_list.py
+    │
+    ├── Task2/
+    │   └── calculator.py
+    │
+    ├── Task3/
+    │   └── password_generator.py
+    │
+    └── Task4/
+        └── rock_paper_scissors.py
+
+
 ```
 
 ## ▶️ How to Run
